@@ -1,6 +1,6 @@
 # 🏓 Ping Pong Game
 
-A simple **Ping Pong (Pong)** game built with [insert your language or framework here — e.g. Python & Pygame / JavaScript & HTML Canvas].  
+A simple **Ping Pong (Pong)** game built with Python & Turtle .  
 This project is a fun, minimal clone of the classic arcade game — great for learning basic game loops, collision detection, and keyboard input handling.
 
 ---
@@ -32,20 +32,15 @@ This project is a fun, minimal clone of the classic arcade game — great for le
 
 2. **Install dependencies**
    ```bash
-   # Example for Python
    pip install -r requirements.txt
 
-   # Example for JavaScript
-   npm install
    ```
 
 3. **Run the game**
    ```bash
-   # Python example
    python main.py
 
-   # JavaScript example
-   npm start
+
    ```
 
 ---
@@ -69,14 +64,6 @@ This project demonstrates:
 
 ---
 
-## 📸 Demo / GIF (Optional)
-
-If you record gameplay, you can add a short GIF demo here:
-```markdown
-![Ping Pong Gameplay](./demo.gif)
-```
-
----
 
 ## 📜 License
 
