@@ -53,16 +53,6 @@ This project is a fun, minimal clone of the classic arcade game — great for le
 
 ---
 
-## 🧠 Lessons Learned
-
-This project demonstrates:
-- Basic 2D game mechanics  
-- Handling user input  
-- Simple collision detection  
-- Using a main game loop  
-
----
-
 
 ## 📜 License
 
