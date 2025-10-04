@@ -17,7 +17,6 @@ This project is a fun, minimal clone of the classic arcade game — great for le
 
 ## 🖼️ Screenshot
 
-![Ping Pong Game Screenshot]
 <img width="796" height="623" alt="image" src="https://github.com/user-attachments/assets/04094f2d-7528-4c4d-bd96-5f59985157e1" />
 
 ---
@@ -90,6 +89,10 @@ Open an issue or submit a pull request — contributions are welcome!
 ## 👤 Author Stats
 
 ![Pacpac-ux GitHub Stats](https://github-readme-stats.vercel.app/api?username=pacpac-ux&show_icons=true&theme=tokyonight)
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=pacpac-ux&theme=tokyonight)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacpac-ux&layout=compact&theme=tokyonight)
 
