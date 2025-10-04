@@ -79,3 +79,17 @@ Open an issue or submit a pull request — contributions are welcome!
 ---
 
 ### ⭐ If you like this project, give it a star on GitHub!
+
+## 📈 Repository Stats
+
+![GitHub stars](https://img.shields.io/github/stars/pacpac-ux/Ping-Pong-game?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/pacpac-ux/Ping-Pong-game?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/pacpac-ux/Ping-Pong-game?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/pacpac-ux/Ping-Pong-game?style=for-the-badge)
+
+## 👤 Author Stats
+
+![Pacpac-ux GitHub Stats](https://github-readme-stats.vercel.app/api?username=pacpac-ux&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=pacpac-ux&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pacpac-ux&layout=compact&theme=tokyonight)
+
