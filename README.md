@@ -17,10 +17,8 @@ This project is a fun, minimal clone of the classic arcade game — great for le
 
 ## 🖼️ Screenshot
 
-![Ping Pong Game Screenshot](<img width="796" height="623" alt="image" src="https://github.com/user-attachments/assets/98097ec0-fc07-42e6-a270-91869abedd37" />
-)
-
-> *Place a file named `screenshot.png` in your repo’s root directory, or update the image path above.*
+![Ping Pong Game Screenshot]
+<img width="796" height="623" alt="image" src="https://github.com/user-attachments/assets/04094f2d-7528-4c4d-bd96-5f59985157e1" />
 
 ---
 
